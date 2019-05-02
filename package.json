@@ -1,0 +1,24 @@
+{
+  "name": "easygraphics4web",
+  "version": "0.0.0",
+  "description": "A client-side Typescript library to draw and modify vectorial graphics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leluque/easygraphics4web.git"
+  },
+  "author": "Leandro Luque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leluque/easygraphics4web/issues"
+  },
+  "homepage": "https://github.com/leluque/easygraphics4web#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "typescript": "^3.4.5"
+  }
+}
